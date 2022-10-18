@@ -1,5 +1,5 @@
 
-👋 Name    - Jung Hoon, OH
+👋 Name    - Jung Hoon, OH <br>
 👨‍🎓 degree   - computer science degree
 💻 Job      - Web/App Developer
 💡 Languages - Java(Spring/Boot), PHP(CI), JavaScript(Jquery/React), Dart(Flutter)
