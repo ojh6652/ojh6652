@@ -1,9 +1,9 @@
 
-👋 Name    - Jung Hoon, OH <br>
-👨‍🎓 degree   - computer science degree
-💻 Job      - Web/App Developer
-💡 Languages - Java(Spring/Boot), PHP(CI), JavaScript(Jquery/React), Dart(Flutter)
-✉ Email     - ojh6652@gmail.com
+👋 Name    - Jung Hoon, OH  
+👨‍🎓 degree   - computer science degree  
+💻 Job      - Web/App Developer  
+💡 Languages - Java(Spring/Boot), PHP(CI), JavaScript(Jquery/React), Dart(Flutter)  
+✉ Email     - ojh6652@gmail.com  
 
 
 <!---
